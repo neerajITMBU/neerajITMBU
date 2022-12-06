@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neeraj
 
-Visit my example website: "[neerajitmbu.github.io/food-drive.github.io/]"
+Visit my example website: [here](neerajitmbu.github.io/food-drive.github.io/)
 
-Disclaimer: view it only on desktop browsers 😁
+Disclaimer: view it only on desktop browsers(like Chrome)😁
